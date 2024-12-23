@@ -41,4 +41,5 @@ Technologies Used:
 . CSS
 
 How It Works:
-. Enter your weight in kilograms and height in centimeters, Click the "Calculate" button . The app will display your BMI value along with a health status indicator.
+
+Enter your weight in kilograms and height in centimeters, Click the "Calculate" button . The app will display your BMI value along with a health status indicator.
