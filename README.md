@@ -40,7 +40,6 @@ Technologies Used:
 
 . React
 
-
 . CSS
 
 How It Works:
