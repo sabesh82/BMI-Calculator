@@ -37,7 +37,10 @@ A lightweight BMI (Body Mass Index) Calculator built using **React** to help use
      npm run dev
 
 Technologies Used:
+
 . React
+
+
 . CSS
 
 How It Works:
